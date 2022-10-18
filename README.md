@@ -1,10 +1,12 @@
-# React Chrome Extension Boilerplate
+# Typescript-Chrome-Weather-Extension
 
 ## Getting Started
 
-1. `npm i` to install dependancies
-2. `npm start` to start running the fast development mode Webpack build process that bundle files into the `dist` folder
-3. `npm i --save-dev <package_name>` to install new packages
+1. Go to https://openweathermap.org/ and sign up for an account
+2. Generate an API key and enter it as `WEATHER_API_KEY=keyhere` in a .env file in the project root directory
+3. `npm i` to install dependancies
+4. `npm start` to start running the fast development mode Webpack build process that bundle files into the `dist` folder
+5. `npm i --save-dev <package_name>` to install new packages
 
 ## Loading The Chrome Extension
 

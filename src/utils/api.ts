@@ -1,6 +1,7 @@
 import { OpenweatherData } from "../interface/OpenWeatherData";
 
-const WEATHER_API_KEY = "1358185489a1550ed2489145956d89dc";
+//TODO: set up .env with your api key
+const WEATHER_API_KEY = process.env.WEATHER_API_KEY;
 
 export type OpenWeatherDataTempScale = "metric" | "imperial";
 
