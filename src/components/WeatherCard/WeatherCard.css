@@ -1,0 +1,18 @@
+.weatherCard {
+    background-color: #2E2E2E !important;
+    color: #D7D7D7 !important;
+}
+
+.weatherCard-title{
+    font-size: 24px !important;
+}
+
+.weatherCard-body {
+    font-size: 16px !important;
+    text-align: center !important;
+}
+
+.weatherCard-temp {
+    font-size: 46px !important;
+    text-align: center !important;
+}

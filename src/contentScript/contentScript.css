@@ -1,0 +1,9 @@
+.overlayCard {
+    position: fixed;
+    left: 5%;
+    top: 15%;
+    max-width: 240px;
+    max-height: 320px;
+    background-color: #2E2E2E !important;
+    z-index: 1337420;
+}

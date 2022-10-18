@@ -1,0 +1,15 @@
+body {
+  background-color: #121212;
+  width: 380px;
+  height: 512px;
+  font-family: "Roboto";
+}
+
+.popupNav {
+      background-color: #2E2E2E !important;
+}
+
+.popupNav .MuiIconButton-label,
+.popupNav input{
+      color: #D7D7D7 !important;
+}
